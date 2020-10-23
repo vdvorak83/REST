@@ -74,7 +74,7 @@
 
 		<!-- commons and utils -->
 		<commons-lang3.version>3.3.2</commons-lang3.version>
-		<guava.version>17.0</guava.version>
+		<guava.version>r03</guava.version>
 
 		<!-- UNSORTED -->
 		<commons-codec.version>1.9</commons-codec.version>

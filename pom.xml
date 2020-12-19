@@ -68,7 +68,7 @@
 		<javax.servlet-api.version>3.0.1</javax.servlet-api.version>
 
 		<!-- marshalling -->
-		<jackson.version>2.2.3</jackson.version>
+		<jackson.version>2.10.0.pr1</jackson.version>
 		<jaxb-api.version>2.2.11</jaxb-api.version>
 		<xstream.version>1.4.7</xstream.version>
 

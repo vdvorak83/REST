@@ -70,7 +70,7 @@
 		<!-- marshalling -->
 		<jackson.version>2.2.3</jackson.version>
 		<jaxb-api.version>2.2.11</jaxb-api.version>
-		<xstream.version>1.4.7</xstream.version>
+		<xstream.version>1.4.16</xstream.version>
 
 		<!-- commons and utils -->
 		<commons-lang3.version>3.3.2</commons-lang3.version>

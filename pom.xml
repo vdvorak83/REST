@@ -59,8 +59,8 @@
 	<properties>
 
 		<!-- Spring related -->
-		<spring.version>4.0.4.RELEASE</spring.version>
-		<spring-security.version>3.2.3.RELEASE</spring-security.version>
+		<spring.version>5.2.15.RELEASE</spring.version>
+		<spring-security.version>4.0.1.RELEASE</spring-security.version>
 		<javassist.version>3.18.1-GA</javassist.version>
 		<aspectjweaver.version>1.8.0</aspectjweaver.version>
 

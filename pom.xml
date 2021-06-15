@@ -60,7 +60,7 @@
 
 		<!-- Spring related -->
 		<spring.version>4.0.4.RELEASE</spring.version>
-		<spring-security.version>3.2.3.RELEASE</spring-security.version>
+		<spring-security.version>4.0.1.RELEASE</spring-security.version>
 		<javassist.version>3.18.1-GA</javassist.version>
 		<aspectjweaver.version>1.8.0</aspectjweaver.version>
 
@@ -70,7 +70,7 @@
 		<!-- marshalling -->
 		<jackson.version>2.2.3</jackson.version>
 		<jaxb-api.version>2.2.11</jaxb-api.version>
-		<xstream.version>1.4.7</xstream.version>
+		<xstream.version>1.4.11</xstream.version>
 
 		<!-- commons and utils -->
 		<commons-lang3.version>3.3.2</commons-lang3.version>

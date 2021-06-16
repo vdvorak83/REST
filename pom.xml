@@ -59,7 +59,7 @@
 	<properties>
 
 		<!-- Spring related -->
-		<spring.version>4.0.4.RELEASE</spring.version>
+		<spring.version>5.2.15.RELEASE</spring.version>
 		<spring-security.version>3.2.3.RELEASE</spring-security.version>
 		<javassist.version>3.18.1-GA</javassist.version>
 		<aspectjweaver.version>1.8.0</aspectjweaver.version>
@@ -68,7 +68,7 @@
 		<javax.servlet-api.version>3.0.1</javax.servlet-api.version>
 
 		<!-- marshalling -->
-		<jackson.version>2.2.3</jackson.version>
+		<jackson.version>2.9.10.8</jackson.version>
 		<jaxb-api.version>2.2.11</jaxb-api.version>
 		<xstream.version>1.4.7</xstream.version>
 

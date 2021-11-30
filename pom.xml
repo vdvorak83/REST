@@ -87,7 +87,7 @@
 		<querydsl.version>3.3.3</querydsl.version>
 		<spring-data-jpa.version>1.5.2.RELEASE</spring-data-jpa.version>
 
-		<h2.version>1.4.178</h2.version>
+		<h2.version>2.0.202</h2.version>
 		<hsqldb.version>2.3.2</hsqldb.version>
 
 		<validation-api.version>1.1.0.Final</validation-api.version>

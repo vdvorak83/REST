@@ -81,7 +81,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-oxm</artifactId>
-			<version>${spring.version}</version>
+			<version>4.3.30.RELEASE</version>
 		</dependency>
 		
 		<!-- may be unnecessary - check -->

@@ -81,7 +81,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-oxm</artifactId>
-			<version>${spring.version}</version>
+			<version>5.2.19.RELEASE</version>
 		</dependency>
 		
 		<!-- may be unnecessary - check -->
@@ -107,7 +107,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-config</artifactId>
-			<version>${spring-security.version}</version>
+			<version>4.0.1.RELEASE</version>
 		</dependency>
 
 		<!-- validation -->
